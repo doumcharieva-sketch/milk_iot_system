@@ -1,4 +1,4 @@
-# milk_iot_system
+# digital_twin_ayran
 import dash
 from dash import dcc, html, Input, Output
 import plotly.graph_objs as go
